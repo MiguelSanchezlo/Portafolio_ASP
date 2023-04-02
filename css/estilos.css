@@ -1,7 +1,7 @@
 body
 {
-    background-color: #534e4e;
-    color: rgb(110, 120, 127);
+    background-color: #87c6e4;
+    color: rgb(0, 0, 0);
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
@@ -11,9 +11,9 @@ body
 
 #cabecera
 {
-    background: #43be32;
+    background-color: #43be32;
     box-shadow: 0px 2px 20px 0px  #000000;
-    color: white;
+    color: rgb(255, 255, 255);
     font-weight: bold;
     margin: 0;
     padding: 0;
@@ -28,6 +28,7 @@ body
 
 #container
 {
+    background-color: #4a7d9b;
     width: 70%;
     padding: 1em;
     text-align: center;
@@ -38,4 +39,14 @@ body
 #container h1
 {
     font-size: 20px;
+}
+
+#frases
+{
+    background-color: rgb(255, 255, 255);
+    width: 70%;
+    padding: 0;
+    text-align: center;
+    border: 3px solid rgb(184, 147, 121);
+    margin: 0 auto;
 }
