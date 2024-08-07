@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\proyecto_clase\\portafolio\\portafolio\\services\\repositorioproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\services\\repositorioproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\proyecto_clase\\portafolio\\portafolio\\models\\proyectoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\models\\proyectoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\proyecto_clase\\portafolio\\portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\proyecto_clase\\portafolio\\portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\proyecto_clase\\portafolio\\portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\proyecto_clase\\portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\proyecto_clase\\portafolio\\portafolio\\models\\personaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\models\\personaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\proyecto_clase\\portafolio\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\proyecto_clase\\portafolio\\portafolio\\views\\home\\_proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\views\\home\\_proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\proyecto_clase\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Proyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Views\\Home\\_Proyectos.cshtml",
+              "RelativeDocumentMoniker": "portafolio\\Views\\Home\\_Proyectos.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Views\\Home\\_Proyectos.cshtml",
+              "RelativeToolTip": "portafolio\\Views\\Home\\_Proyectos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T14:46:46.514Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProyectoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Models\\ProyectoViewModel.cs",
+              "RelativeDocumentMoniker": "portafolio\\Models\\ProyectoViewModel.cs",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Models\\ProyectoViewModel.cs",
+              "RelativeToolTip": "portafolio\\Models\\ProyectoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:16:05.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositorioProyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Services\\RepositorioProyecto.cs",
+              "RelativeDocumentMoniker": "portafolio\\Services\\RepositorioProyecto.cs",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Services\\RepositorioProyecto.cs",
+              "RelativeToolTip": "portafolio\\Services\\RepositorioProyecto.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:15:02.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "portafolio\\wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "portafolio\\wwwroot\\css\\custom.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T15:23:04.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Models\\PersonaViewModel.cs",
+              "RelativeDocumentMoniker": "portafolio\\Models\\PersonaViewModel.cs",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Models\\PersonaViewModel.cs",
+              "RelativeToolTip": "portafolio\\Models\\PersonaViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:51:42.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Presentacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeDocumentMoniker": "portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeToolTip": "portafolio\\Views\\Home\\_Presentacion.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T12:27:21.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Habilidades.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "RelativeDocumentMoniker": "portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "RelativeToolTip": "portafolio\\Views\\Home\\_Habilidades.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T12:42:23.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "portafolio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "portafolio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T12:52:13.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "portafolio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "portafolio\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:59:22.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "portafolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\proyecto_clase\\portafolio\\portafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "portafolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:01:34.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
