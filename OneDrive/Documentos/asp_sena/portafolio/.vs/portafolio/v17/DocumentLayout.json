@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sena\\Documents\\portafolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\portafolio\\portafolio\\views\\home\\gracias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\views\\home\\gracias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\portafolio\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\portafolio\\portafolio\\views\\home\\proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\views\\home\\proyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\portafolio\\portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|c:\\users\\sena\\documents\\portafolio\\portafolio\\models\\contactoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048A5F91-EE59-402F-A1A7-CB693C7EED3A}|portafolio\\portafolio.csproj|solutionrelative:portafolio\\models\\contactoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gracias.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\portafolio\\portafolio\\Views\\Home\\Gracias.cshtml",
+              "RelativeDocumentMoniker": "portafolio\\Views\\Home\\Gracias.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\portafolio\\portafolio\\Views\\Home\\Gracias.cshtml",
+              "RelativeToolTip": "portafolio\\Views\\Home\\Gracias.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T16:33:42.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\portafolio\\portafolio\\Models\\ContactoViewModel.cs",
+              "RelativeDocumentMoniker": "portafolio\\Models\\ContactoViewModel.cs",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\portafolio\\portafolio\\Models\\ContactoViewModel.cs",
+              "RelativeToolTip": "portafolio\\Models\\ContactoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:29:33.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contacto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\portafolio\\portafolio\\Views\\Home\\Contacto.cshtml",
+              "RelativeDocumentMoniker": "portafolio\\Views\\Home\\Contacto.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\portafolio\\portafolio\\Views\\Home\\Contacto.cshtml",
+              "RelativeToolTip": "portafolio\\Views\\Home\\Contacto.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T16:12:57.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\portafolio\\portafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "portafolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\portafolio\\portafolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "portafolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T16:10:02.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\portafolio\\portafolio\\Views\\Home\\Proyectos.cshtml",
+              "RelativeDocumentMoniker": "portafolio\\Views\\Home\\Proyectos.cshtml",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\portafolio\\portafolio\\Views\\Home\\Proyectos.cshtml",
+              "RelativeToolTip": "portafolio\\Views\\Home\\Proyectos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T15:06:37.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sena\\Documents\\portafolio\\portafolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "portafolio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sena\\Documents\\portafolio\\portafolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "portafolio\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:37:08.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
