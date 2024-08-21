@@ -1,0 +1,40 @@
+﻿#foto {
+    width: 300px;
+    height: 300px;
+    margin: 2rem 0;
+    border-radius: 50%;
+    border: black solid ;
+}
+
+#img_dotnet {
+    width: 400px;
+}
+
+.seccion_bienvenida {
+    color: white;
+    padding: 85px 0 12rem 0;
+}
+
+.seccion_bienvenida p {
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-size: 1.10rem;
+}
+
+.habilidades {
+    box-shadow: 5px 5px 5px gray;
+}
+
+.cabecera {
+    font-weight: bold;
+}
+
+.habilidades ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.habilidades i{
+    color: #0094ff;
+    font-size: 50px;
+}
