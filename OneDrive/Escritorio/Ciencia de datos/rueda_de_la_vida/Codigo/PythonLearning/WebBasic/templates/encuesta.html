@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FerreTech - Encuesta</title>
+  <style>
+      body {
+          font-family: Arial, sans-serif;
+          text-align: center;
+          padding: 50px;
+          background-color: #f4f4f4;
+      }
+      .container {
+          max-width: 800px;
+          margin: auto;
+          background: white;
+          padding: 20px;
+          border-radius: 10px;
+          box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+      }
+      label {
+          display: block;
+          margin: 10px auto 5px;
+          font-weight: bold;
+      }
+      .options {
+          display: flex;
+          justify-content: center;
+          gap: 20px;
+          margin-bottom: 15px;
+      }
+      .options button {
+          padding: 8px 16px;
+          background: #007BFF;
+          color: white;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+      }
+      .options button:hover {
+          background: #0056b3;
+      }
+      button.submit {
+          padding: 10px 20px;
+          background: #28a745;
+          color: white;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+          margin-top: 20px;
+      }
+      button.submit:hover {
+          background: #218838;
+      }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Encuesta FerreTech</h1>
+    <p>Ayúdanos a entender mejor el sector ferretero respondiendo esta encuesta.</p>
+    <form method="post" action="{{ url_for('procesar_encuesta') }}">
+      <label for="nombre">Nombre:</label>
+      <input type="text" id="nombre" name="nombre" required>
+      
+      <label for="email">Correo electrónico:</label>
+      <input type="email" id="email" name="email" required>
+      
+      <label for="experiencia">¿Cuántos años de experiencia tienes en el sector ferretero?</label>
+      <input type="number" id="experiencia" name="experiencia" min="0" required>
+      
+      <h3>Digitalización y Tecnología</h3>
+      <label>¿Tu ferretería tiene presencia digital?</label>
+      <div class="options">
+        <button type="button">Sí</button>
+        <button type="button">No</button>
+      </div>
+      
+      <label>¿Utilizan herramientas digitales para gestionar inventarios y ventas?</label>
+      <div class="options">
+        <button type="button">Sí</button>
+        <button type="button">No</button>
+      </div>
+      
+      <label>¿El personal está capacitado en el uso de tecnologías digitales?</label>
+      <div class="options">
+        <button type="button">Sí</button>
+        <button type="button">No</button>
+      </div>
+      
+      <h3>Gestión de Inventarios</h3>
+      <label>¿Se analizan datos para prever la demanda de ciertos artículos?</label>
+      <div class="options">
+        <button type="button">Sí</button>
+        <button type="button">No</button>
+      </div>
+      <label for="ventas">¿Cómo realizas la mayoría de tus ventas?</label>
+      <select id="ventas" name="ventas">
+        <option value="presencial">Presencial</option>
+        <option value="online">Online</option>
+        <option value="mixto">Ambos</option>
+      </select>
+
+      <h3>Tendencias de Venta y Estrategias Comerciales</h3>
+      <label>¿Conoces los productos más vendidos y su impacto en las ganancias?</label>
+      <div class="options">
+        <button type="button">Sí</button>
+        <button type="button">No</button>
+      </div>
+
+      <label for="interes">¿Qué aspecto de la digitalización te interesa más?</label>
+      <select id="interes" name="interes">
+        <option value="ventas_online">Ventas en línea</option>
+        <option value="gestion_inventarios">Gestión de inventarios</option>
+        <option value="analisis_clientes">Análisis de clientes</option>
+        <option value="publicidad_digital">Publicidad digital</option>
+      </select>  
+
+      <h3>Competitividad y Mercado</h3>
+      <label>¿Tienes estrategias para diferenciarte de la competencia?</label>
+      <div class="options">
+        <button type="button">Sí</button>
+        <button type="button">No</button>
+      </div>
+      
+      <h3>Finanzas y Rentabilidad</h3>
+      <label>¿Llevas un registro detallado de ingresos y gastos?</label>
+      <div class="options">
+        <button type="button">Sí</button>
+        <button type="button">No</button>
+      </div>
+      
+      <button type="submit" class="submit">Enviar Encuesta</button>
+    </form>
+  </div>
+</body>
+</html>
